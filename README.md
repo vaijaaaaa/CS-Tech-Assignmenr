@@ -62,7 +62,7 @@ project-root/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mern-task-distributor.git
+git clone https://github.com/vaijaaaaa/mern-task-distributor.git
 cd mern-task-distributor
 ```
 
@@ -113,11 +113,6 @@ Password: Admin@123
 
 You can change these by editing the seeding script or adding manually via MongoDB.
 
----
-
-## 📸 Demo Video
-
-🎥 [Click here to watch the demo video on Google Drive](your-google-drive-link-here)
 
 ---
 
@@ -157,6 +152,3 @@ Feel free to reach out for contributions, issues, or improvements!
 
 ---
 
-> ✅ **Note**: Replace `your-google-drive-link-here` with your actual Google Drive demo video link.
-> 
-> ✅ **Note**: Replace `your-username` in the clone URL with your actual GitHub username.
